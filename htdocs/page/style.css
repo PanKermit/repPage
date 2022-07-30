@@ -1,0 +1,117 @@
+body{
+    background-color: #12E695;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input{
+    border-radius: 24px;
+
+}
+
+#mot form{
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: #00E6C3;
+    /*width: 250px;*/
+}
+#up{
+    margin-top: 10px;
+    /*font-size: 12px;*/
+    display: flex;
+    justify-content: center;   
+}
+#mot{
+    display: flex;
+    justify-content:center;
+}
+#mot form img:hover{
+    border: 2px solid black;
+} 
+
+footer{
+    background-color: #0C99F2;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1em;
+}
+#menu ul li{
+    display: flex;
+    justify-content: right;
+    margin-top: 10px;
+    float: right;
+    margin-right: 10px;
+    /*border-right: 2px solid #0AFF62;*/
+}
+#menu{
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+}
+#menu ul li a{
+    color: black;
+    text-decoration: none;
+}
+#menu ul li a:hover{
+    color: #0A45FF;
+}
+#log{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+.produkt a img{
+    margin-left: 15%;
+}
+.produkt p{
+    margin-left: 15%;
+}
+#mot form h3{
+   display: flex;
+   justify-content: center;
+}
+.produkt{
+    float: left;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+#tom ul li a{
+    text-decoration: none;
+    color: black;
+}
+#tom ul{
+    list-style-type: none;
+}
+#tom ul li{
+    margin-top: 10px;
+    float: left;
+    margin-left: 1em;
+}
+#men{
+    display: flex;
+    justify-content: center;
+    font-size: 32px;
+}
+#tex{
+    text-align: center;
+    word-wrap: break-word;
+    display: flex;
+    justify-content: center;
+    margin-top:15%;
+}
+br{
+    color:#12E695 ;
+}
+h4{
+    color: #12E695;
+}
+#men ul li a{
+    color:black;
+    text-decoration: none;
+}
+#tom #men ul li a:hover{
+    color: #0A45FF;
+}
