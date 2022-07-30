@@ -41,6 +41,6 @@
                 Znajdujesz się w menu. Wybierz sekję komponentów która cię interesuje.
             </div>
         </div>
-        <footer>SKLEP Z TANIMI KOMPONENTAMI KOMPUTEROWYMI</footer>
+        <footer>|SKLEP Z TANIMI KOMPONENTAMI KOMPUTEROWYMI|</footer>
     </body>
 </html>
